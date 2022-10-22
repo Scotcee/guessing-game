@@ -1,6 +1,6 @@
 
-// const userName = prompt("what is your name?");
-// console.log("welcome" + " " + userName + " " + "to zuri guessing game");
+ const userName = prompt("what is your name?");
+ console.log("welcome" + " " + userName + " " + "to zuri guessing game");
 
 
 
